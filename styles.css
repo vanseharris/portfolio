@@ -185,7 +185,7 @@ table {
 .worksTitle{
     padding:10vh 0 5vh 0;
     font-size:30px;
-    font-family:'Lato light', sans-serif;
+    font-family:"Lato Light", sans-serif;
     border-bottom:solid .01px black;
 }
 .worksMenu{
@@ -194,7 +194,7 @@ table {
 .worksMenu h2{
     padding:5vh 2vh;
     font-size:24px;
-    font-family:"Lato light", sans-serif;
+    font-family:"Lato Light", sans-serif;
     line-height:0px;
 }
 
@@ -238,7 +238,7 @@ table {
 .worksAbt{
     font-size:17px;
     text-align:justify;
-    font-family:"Lato Light";
+    font-family:"Lato Light", sans-serif;
     width:77%;
     position:absolute;
     bottom:0;
